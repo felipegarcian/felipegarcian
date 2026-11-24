@@ -2,11 +2,11 @@
 
 **I build things to find out how they work.**
 
-Delivery lead in Medellín, Colombia. Mostly software — agents, study tools, the occasional game.
+Delivery leader and AI builder in Medellín, Colombia. Mostly software — agents, study tools, the occasional game.
 
 ## What I'm building
 
-**Agentic Delivery Toolset** — a hub of agents for teams and projects, built out of delivery practice that already worked. Most playbooks are a PDF nobody opens twice, so this one ships as tools instead: drafting the plan, surfacing dependencies and risks before they turn into blockers, and taking the reporting work off the people doing the delivery. The bet is that guidance only changes how a team works if it does some of the work for them. In construction now.
+**Agentic Delivery Toolset** — a practical hub of agents and workflows that turn delivery guidance into working team tools. It drafts plans, surfaces dependencies and risks, and reduces the reporting work around delivery so people can spend more time acting on the work. In construction now.
 
 **[Validador SS](https://github.com/felipegarcian/validador-ss)** — a Python tool that validates Colombian social-security payment supports against monthly payroll records, producing an auditable Excel workbook and human-review email drafts. Built for AZA Gestión del Riesgo with a team of six, combining deterministic validation, PDF-template extraction, and optional SharePoint and Office 365 workflows.
 
@@ -16,9 +16,18 @@ Delivery lead in Medellín, Colombia. Mostly software — agents, study tools, t
 
 **PersonalOS** — a private knowledge-and-agent system I run my own planning and weekly reviews on. Not public; the useful part is finding out where it breaks.
 
+## Professional engagements
+
+I help teams apply AI where it can create operational value, not where it only makes a slide more impressive.
+
+- **AI Delivery Sprint** — a focused 2-4 week engagement that maps a delivery bottleneck, prototypes a useful solution, and establishes practical adoption and success measures.
+- **Delivery Automation Accelerator** — implementation of agents and workflows for planning, risk visibility, documentation, reporting, and follow-through across a team or project.
+- **AI Adoption Advisory** — ongoing guidance for leaders implementing AI in delivery, from use-case selection and pilot review to governance and adoption.
+- **Executive AI Delivery Workshop** — a hands-on session that helps leaders prioritize opportunities, identify risks, and leave with experiments ready for the next 30 days.
+
 ## Where I'm headed
 
-Delivery leadership where AI does real work in the pipeline, not demo work. That thread runs through everything above — tools that carry weight for a team, not tools that look good on a slide.
+Delivery leadership where AI does real work in the pipeline, not demo work. That thread runs through everything above — tools and engagements that carry weight for a team, not solutions that only look good on a slide.
 
 ## Background
 
@@ -28,4 +37,4 @@ Full history is on [LinkedIn](https://www.linkedin.com/in/luis-felipe-garcia/).
 
 ## Get in touch
 
-If you're scaling delivery across time zones and want fewer surprises, let's talk. felipegarcian@gmail.com
+For AI delivery sprints, automation, advisory, or workshops, let's talk. felipegarcian@gmail.com
