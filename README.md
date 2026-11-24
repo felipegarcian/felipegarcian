@@ -6,15 +6,15 @@ Delivery leader and AI builder in Medellín, Colombia. Mostly software — agent
 
 ## What I'm building
 
-**Agentic Delivery Toolset** — a practical hub of agents and workflows that turn delivery guidance into working team tools. It drafts plans, surfaces dependencies and risks, and reduces the reporting work around delivery so people can spend more time acting on the work. In construction now.
+**Agentic Delivery Toolset** — a private suite of agents and workflows built to help companies and enterprises turn delivery knowledge into operational tools. It drafts plans, surfaces dependencies and risks, and reduces reporting work so teams can focus on decisions and execution. The vision is to make delivery infrastructure practical, reusable, and valuable across projects and organizations.
 
-**[Validador SS](https://github.com/felipegarcian/validador-ss)** — a Python tool that validates Colombian social-security payment supports against monthly payroll records, producing an auditable Excel workbook and human-review email drafts. Built for AZA Gestión del Riesgo with a team of six, combining deterministic validation, PDF-template extraction, and optional SharePoint and Office 365 workflows.
+**[Validador SS](https://github.com/felipegarcian/validador-ss)** — a Python system built for AZA Gestión del Riesgo that reduces manual validation of social-security payment supports and creates a traceable review workflow. It combines deterministic rules, PDF extraction, auditable Excel output, and human-approved email drafts, with an architecture prepared for SharePoint and Office 365.
 
 **[ai-103-study-hub](https://felipegarcian.github.io/ai-103-study-hub)** — a retrieval-first study system for Microsoft's AI-103 exam: 132 original practice questions, eight hands-on labs, an Obsidian vault, and a seven-day plan. Built while studying for it myself, because re-reading notes doesn't work and testing yourself does. Passed the exam in August 2026.
 
 **[LUNCH.PUFFS.CLUB](https://felipegarcian.github.io/LUNCH.PUFFS.CLUB)** — Rat-Pigeon, a browser runner built in Phaser CE with two friends for GitHub's Game Off 2018. You play a lab-escaped hybrid, switching between running as a rat and flying as a pigeon to get out. The creative end of things, and the reason I still write code.
 
-**PersonalOS** — a private knowledge-and-agent system I run my own planning and weekly reviews on. Not public; the useful part is finding out where it breaks.
+**PersonalOS** — a private knowledge-and-agent system that improves how I plan and manage my life. Its purpose is to reduce friction, recover time, and help me focus on what matters most: my family and the things that deserve my full attention.
 
 ## Professional engagements
 
